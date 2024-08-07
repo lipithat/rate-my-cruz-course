@@ -1,8 +1,8 @@
 {
-  "name": "@monorepo-template/scripts",
+  "name": "@rate-my-cruz-course/scripts",
   "version": "0.0.0",
   "dependencies": {
-    "@monorepo-template/core": "*",
+    "@rate-my-cruz-course/core": "*",
     "sst": "*"
   },
   "scripts": {
